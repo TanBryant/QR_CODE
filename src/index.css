@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+td,
+th {
+    padding: 10px 25px;
+    text-align: left;
+}
+
+.error {
+    color: red;
+    font-size: 12px;
+}
